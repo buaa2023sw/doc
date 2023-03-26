@@ -1,0 +1,106 @@
+<mxfile host="65bd71144e">
+    <diagram name="第 1 页" id="eOHOjZIOPD_4_yfJL2AY">
+        <mxGraphModel dx="1781" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="10Ostz9Ktq01Javnzbu8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="10Ostz9Ktq01Javnzbu8-1" target="10Ostz9Ktq01Javnzbu8-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10Ostz9Ktq01Javnzbu8-1" value="点选&lt;br&gt;绑定GitHub&lt;br&gt;项目存储库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="200" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10Ostz9Ktq01Javnzbu8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="10Ostz9Ktq01Javnzbu8-2" target="10Ostz9Ktq01Javnzbu8-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10Ostz9Ktq01Javnzbu8-2" value="提供GitHub代码存储库链接" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="220" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10Ostz9Ktq01Javnzbu8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="10Ostz9Ktq01Javnzbu8-4" target="10Ostz9Ktq01Javnzbu8-10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10Ostz9Ktq01Javnzbu8-12" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;" parent="10Ostz9Ktq01Javnzbu8-11" vertex="1" connectable="0">
+                    <mxGeometry x="-0.354" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" parent="1" source="10Ostz9Ktq01Javnzbu8-4" target="10Ostz9Ktq01Javnzbu8-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" parent="3" vertex="1" connectable="0">
+                    <mxGeometry x="-0.4034" y="1" relative="1" as="geometry">
+                        <mxPoint x="-1" y="8" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10Ostz9Ktq01Javnzbu8-4" value="提供的存储库&lt;br&gt;是否公开" style="rhombus;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="200" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10Ostz9Ktq01Javnzbu8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="10Ostz9Ktq01Javnzbu8-6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="540" y="390"/>
+                            <mxPoint x="540" y="271"/>
+                        </Array>
+                        <mxPoint x="540" y="271" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10Ostz9Ktq01Javnzbu8-6" value="平台提示，要求用户：&lt;br&gt;在GitHub平台邀请&lt;br&gt;我们提供的id加入项目" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="360" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="58FQWNVrNWG30O1-0_ra-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="10Ostz9Ktq01Javnzbu8-10" target="58FQWNVrNWG30O1-0_ra-1" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10Ostz9Ktq01Javnzbu8-10" value="平台自动同步&lt;br&gt;相关信息" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="58FQWNVrNWG30O1-0_ra-1" value="绑定完成！" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="200" width="80" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="w_whIr7a8MEiAXfDzq4x" name="第 2 页">
+        <mxGraphModel dx="848" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="sW9o6Y7h79L4V-O7xftM-3" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" edge="1" parent="1" source="sW9o6Y7h79L4V-O7xftM-1" target="sW9o6Y7h79L4V-O7xftM-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="sW9o6Y7h79L4V-O7xftM-5" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" edge="1" parent="1" source="sW9o6Y7h79L4V-O7xftM-1" target="sW9o6Y7h79L4V-O7xftM-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="sW9o6Y7h79L4V-O7xftM-1" value="将GitHub进展&lt;br&gt;关联到任务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="320" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sW9o6Y7h79L4V-O7xftM-8" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" edge="1" parent="1" source="sW9o6Y7h79L4V-O7xftM-2" target="sW9o6Y7h79L4V-O7xftM-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="sW9o6Y7h79L4V-O7xftM-2" value="在GitHub进展预览界面" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="300" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="sW9o6Y7h79L4V-O7xftM-9" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" edge="1" parent="1" source="sW9o6Y7h79L4V-O7xftM-4" target="sW9o6Y7h79L4V-O7xftM-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="sW9o6Y7h79L4V-O7xftM-4" value="在任务查看界面" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="380" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="sW9o6Y7h79L4V-O7xftM-11" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" edge="1" parent="1" source="sW9o6Y7h79L4V-O7xftM-6" target="sW9o6Y7h79L4V-O7xftM-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="sW9o6Y7h79L4V-O7xftM-6" value="点击按钮选择任务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="300" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="sW9o6Y7h79L4V-O7xftM-13" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" edge="1" parent="1" source="sW9o6Y7h79L4V-O7xftM-7" target="sW9o6Y7h79L4V-O7xftM-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="sW9o6Y7h79L4V-O7xftM-7" value="点击按钮选择GitHub进展" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="380" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="sW9o6Y7h79L4V-O7xftM-10" value="完成关联" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="760" y="320" width="80" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
